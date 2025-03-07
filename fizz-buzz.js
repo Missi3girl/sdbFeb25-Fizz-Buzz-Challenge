@@ -7,7 +7,7 @@
         if number is not divisible by any of these, print number only
 */
 
-
+/* ~~ This is my og code... smh
 for (i =0; i <= 100; i ++) {
     console.log(i);
 } if (i / 3) {
@@ -19,10 +19,10 @@ for (i =0; i <= 100; i ++) {
 } else {
     console.log(i);
 }
+*/
 
 
-
- //~~ This is my code...
+ //~~ This is my new code after listening to class lecture...
 console.log("------------------")
 
 for (let i = 0; i <= 100; i++) {
